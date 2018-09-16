@@ -1,0 +1,15 @@
+{ "_id" : { "$oid" : "5adb14cc97ec7001163c797f" }, "ID" : "00001", "brand" : "YAMAHA", "gen" : "FINO", "color" : "น้ำเงิน", "license" : "ตจ1423", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af03fb966477d4a2b7ba1a1" }, "ID" : "00002", "brand" : "YAMAHA", "gen" : "MIO", "color" : "ดำ", "license" : "กจ2645", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0409a66477d4a2b7ba1a4" }, "ID" : "00003", "brand" : "YAMAHA", "gen" : "FILANO", "color" : "ดำ", "license" : "สค5452", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af040e266477d4a2b7ba1a5" }, "ID" : "00004", "brand" : "HONDA", "gen" : "CLICK", "color" : "ขาว", "license" : "กข1450", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0414566477d4a2b7ba1a7" }, "ID" : "00005", "brand" : "YAMAHA", "gen" : "JELATO", "color" : "ชมพู", "license" : "ขม5843", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0417c66477d4a2b7ba1a8" }, "ID" : "00006", "brand" : "HONDA", "gen" : "MSX", "color" : "ขาว", "license" : "พน2540", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af041c066477d4a2b7ba1a9" }, "ID" : "00007", "brand" : "YAMAHA", "gen" : "NOUVO", "color" : "ดำ", "license" : "กฟ9789", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0420866477d4a2b7ba1aa" }, "ID" : "00008", "brand" : "YAMAHA", "gen" : "AEROX", "color" : "ดำ", "license" : "รน4862", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0424866477d4a2b7ba1ab" }, "ID" : "00009", "brand" : "YAMAHA", "gen" : "AEROX", "color" : "เหลือง", "license" : "กจ1150", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0428f66477d4a2b7ba1ac" }, "ID" : "00010", "brand" : "YAMAHA", "gen" : "MIO", "color" : "ส้ม", "license" : "คด6417", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af042b866477d4a2b7ba1ad" }, "ID" : "00011", "brand" : "YAMAHA", "gen" : "AEROX", "color" : "ดำ", "license" : "พอ9452", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0431066477d4a2b7ba1ae" }, "ID" : "00012", "brand" : "YAMAHA", "gen" : "FILANO", "color" : "ดำ", "license" : "คต5239", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0433c66477d4a2b7ba1af" }, "ID" : "00013", "brand" : "YAMAHA", "gen" : "FINO", "color" : "ดำ", "license" : "ยน8312", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af0436f66477d4a2b7ba1b0" }, "ID" : "00014", "brand" : "YAMAHA", "gen" : "NOUVO", "color" : "ดำ", "license" : "กจ1432", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }
+{ "_id" : { "$oid" : "5af043b266477d4a2b7ba1b1" }, "ID" : "00015", "brand" : "YAMAHA", "gen" : "WAVE", "color" : "ขาว", "license" : "ผว9453", "province" : "กรุงเทพมหานคร", "Status" : "ว่าง" }

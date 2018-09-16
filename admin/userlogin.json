@@ -1,0 +1,7 @@
+{ "_id" : { "$oid" : "5aeb4d7f66477d0118ca7813" }, "ID" : "emp01", "PASS" : "12345", "level" : "Employee" }
+{ "_id" : { "$oid" : "5aec2b8139deb852c63a2de5" }, "ID" : "admin", "PASS" : "1234", "level" : "Admin" }
+{ "_id" : { "$oid" : "5af2162125ac8e4bf538932d" }, "ID" : "patdanai", "PASS" : "87654312", "level" : "Admin" }
+{ "_id" : { "$oid" : "5af246ad88d0fa2514b94abd" }, "ID" : "emp02", "PASS" : "1234", "level" : "Employee" }
+{ "_id" : { "$oid" : "5af251fb88d005d2a866b3ea" }, "ID" : "emp03", "PASS" : "12xxxx", "level" : "Employee" }
+{ "_id" : { "$oid" : "5af2521988d005d2a866b3ec" }, "ID" : "admin02", "PASS" : "1234", "level" : "Admin" }
+{ "_id" : { "$oid" : "5af25f0a88d07c876fc0a612" }, "ID" : "admin2", "PASS" : "12333", "level" : "Admin" }
